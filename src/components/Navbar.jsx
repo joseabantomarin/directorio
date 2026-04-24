@@ -47,7 +47,7 @@ export default function Navbar({ onRegisterClick, onQuickSearch }) {
             Sobre OpenLinks
           </a>
           <button onClick={onRegisterClick} className="btn-primary">
-            Registra tu empresa
+            Registra tu empresa · Gratis
           </button>
         </nav>
 
